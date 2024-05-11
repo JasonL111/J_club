@@ -186,7 +186,12 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   This product includes code from Creek and use Astro to develope. They are both licensed under the MIT License. For details on the MIT License, please visit https://mit-license.org/.
+   - Creek, Copyright (c) 2021 Robert Guss, https://github.com/robertguss/Astro-Theme-Creek?tab=MIT-1-ov-file
+   - Astro, copyrighted by Fred K. Schott (2021), available at https://github.com/withastro/astro
+
+   Copyright(c)  2024 JasonL111
+   
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
